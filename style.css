@@ -1,0 +1,26 @@
+#background {
+	background: url("https://media.timeout.com/images/105711298/1372/772/image.jpg");
+	/*width: 100%;*/
+	/*height: 100%;*/
+	background-repeat: no-repeat;
+	background-position: relative;
+	background-size: cover;
+}
+
+.navbar{
+	list-style-type: none;
+	text-align: center;
+	margin: 0px;
+	background-color: tomato;
+	overflow: auto;
+
+}
+
+.navbar li{
+	display: inline;
+}
+
+.navbar a{
+	display: inline-block;
+	padding: 16px;	
+}
